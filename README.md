@@ -29,5 +29,5 @@ This project implements an asynchronous message queue library along with two Fas
 
 1. Clone the repository:
    ```bash
-   git clone <[https://github.com/tomas83050505/MessageQueueChallenge/tree/a7bc6800fe8f06abc1e0b3e12ffa9cf9cc2a4646](https://github.com/tomas83050505/MessageQueueChallenge.git)>
+   git clone <https://github.com/tomas83050505/MessageQueueChallenge.git>
    cd MessageQueueChallenge
